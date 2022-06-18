@@ -1,0 +1,66 @@
+{
+  "settings": {
+    "name": "iChat | Web-QR",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise5",
+      "title": "Mobirise 5",
+      "styling": {
+        "primaryColor": "#6592e6",
+        "secondaryColor": "#ff6666",
+        "successColor": "#40b0bf",
+        "infoColor": "#47b5ed",
+        "warningColor": "#FFE161",
+        "dangerColor": "#ff9966",
+        "mainFont": "Jost",
+        "display1Font": "Jost",
+        "display1Size": 4.6,
+        "display2Font": "Jost",
+        "display2Size": 3,
+        "display5Font": "Jost",
+        "display5Size": 2,
+        "display7Font": "Jost",
+        "display7Size": 1.2,
+        "display4Font": "Jost",
+        "display4Size": 1.1,
+        "isRoundedButtons": false,
+        "isGhostButtonBorder": false,
+        "underlinedLinks": false,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
+      }
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "5.6.9",
+    "siteFonts": [],
+    "imageResize": false,
+    "favicon": "@PROJECT_PATH@/assets/images/iwebqr.ico",
+    "witsec-jquery": "3.6.0",
+    "mbrsiteDomain": "3fqrsqvopv",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "witsec-white-label": true,
+    "witsec-mailform": false,
+    "witsec-language": false,
+    "global_header_custom": "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n<meta name=\"viewport\" content=\"minimum-scale=1.0, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, width=device-width, height=device-height\" />\n<script type=\"text/javascript\" src=\"https://tawk.to/public/scripts/popout.js\"></script>\n<script type=\"text/javascript\">\n\t\t\tvar Tawk_API = {\n\t\t\t\tisPopup: true,\n\t\t\t\tonLoad: function () {\n\t\t\t\t\tvar dataObj = parseQueryString();\n\n\t\t\t\t\tif (dataObj.tags !== undefined) {\n\t\t\t\t\t\tTawk_API.addTags(dataObj.tags);\n\t\t\t\t\t}\n\n\t\t\t\t\tif (dataObj.event !== undefined) {\n\t\t\t\t\t\tif (dataObj.attrLength !== 0) {\n\t\t\t\t\t\t\tTawk_API.addEvent(dataObj.event, dataObj.attributes);\n\t\t\t\t\t\t} else {\n\t\t\t\t\t\t\tTawk_API.addEvent(dataObj.event);\n\t\t\t\t\t\t}\n\t\t\t\t\t};\n\t\t\t\t}\n\n\t\t\t}, Tawk_LoadStart = new Date();\n\n\t\t\t(function(){\n\t\t\t\tvar s1=document.createElement(\"script\"),\n\t\t\t\t\ts0=document.getElementsByTagName(\"script\")[0];\n\n\t\t\t\ts1.async=true;\n\t\t\t\ts1.src='https://iweb.qr-ez.net/TawkTo/TawkTo.js';\n\t\t\t\ts1.charset='UTF-8';\n\t\t\t\ts1.setAttribute('crossorigin','*');\n\n\t\t\t\ts0.parentNode.insertBefore(s1,s0);\n\t\t\t})();\n</script>",
+    "uniqCompNum": 0,
+    "versionPublish": "5.6.9"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "iChat | Web-QR",
+        "meta_descr": "iConnect | Website-QR",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": []
+    }
+  }
+}
