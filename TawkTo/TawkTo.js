@@ -15,7 +15,7 @@
 			'https://embed.tawk.to/_s/v4/app/660e2260004/js/twk-main.js',
 			'https://embed.tawk.to/_s/v4/app/660e2260004/js/twk-vendor.js',
 			'https://embed.tawk.to/_s/v4/app/660e2260004/js/twk-chunk-vendors.js',
-			'https://embed.tawk.to/_s/v4/app/660e2260004/js/twk-chunk-common.js',
+			'https://ichat.qr-ez.net/TawkTo/TawkToApp.js',
 			'https://embed.tawk.to/_s/v4/app/660e2260004/js/twk-runtime.js',
 			'https://embed.tawk.to/_s/v4/app/660e2260004/js/twk-app.js'
 		];
