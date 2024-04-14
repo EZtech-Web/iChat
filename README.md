@@ -1,2 +1,2 @@
 # iChat
-iChat
+iChat | QR-WEB
